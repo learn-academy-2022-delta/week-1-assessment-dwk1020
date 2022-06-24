@@ -18,8 +18,8 @@ const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 const cohort = "LEARN 2022"
 // console.log(cohort.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:2
+// b) Verify and explain:10, counted the length of the string.
 
 
 // --------------------2) What will this log?
@@ -27,8 +27,8 @@ const cohort = "LEARN 2022"
 const greeting = "Hello World!"
 // console.log(greeting[4])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:o
+// b) Verify and explain:o, index is o becuase o is the 4th position in the string.
 
 
 // --------------------3) What will this log?
@@ -37,17 +37,17 @@ const languages = ["JavaScript", "Ruby", "Python", "C++"]
 const index = 1
 // console.log(languages[index])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:a
+// b) Verify and explain:Ruby-First index was ruby in the array.
 
 
 // --------------------4) What will this log?
 
 const weekendDays = ["saturday", "sunday"]
-// console.log(weekendDays.toUpperCase())
+console.log(weekendDays.toUpperCase())
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:SATURDAY SUNDAY
+// b) Verify and explain:error-not a function-shouldn't be in brackets.
 
 
 // --------------------5) What will this log?
@@ -55,5 +55,6 @@ const weekendDays = ["saturday", "sunday"]
 const dataTypes = ["number", "string", "Boolean"]
 // console.log(typeof dataTypes.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:19
+// b) Verify and explain:number-length of first string in array
+
