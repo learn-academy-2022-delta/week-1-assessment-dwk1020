@@ -75,6 +75,8 @@ const fruit4 = "kiwi"
 // create array with index less than 7.
 // input = myArray with test array
 // output = numbers with corresponding odd or even values
+// create a for loop for myArray to filter through the array and distiguish betweeen odd and even values
+// create a conditional statement to assign the odd value to odd numbers and even to numbers that are not odd.
 
  const myArray = [13, 34, 5, 10, 27, 42]
     for(let i = 1; i < myArray.length; i++){
