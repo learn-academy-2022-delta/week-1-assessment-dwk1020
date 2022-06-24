@@ -71,6 +71,6 @@ Research and define the following terms to the best of your ability.
 
 3. Objects: Make code readable, combination of variables, functions, and data structures.
 
-4. Method: Set of instructions to perform certian tasks.
+4. Method: Set of instructions to perform specific tasks.  Methods belongs to objects.
 
 5. Classes: Blueprint for creating objects.  Defines the nature of a future object.
