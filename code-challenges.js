@@ -71,7 +71,10 @@ const fruit4 = "kiwi"
 
 // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
 
-// Pseudo code:create array with index less than 7.
+// Pseudo code:
+// create array with index less than 7.
+// input = myArray with test array
+// output = numbers with corresponding odd or even values
 
  const myArray = [13, 34, 5, 10, 27, 42]
     for(let i = 1; i < myArray.length; i++){
